@@ -7,84 +7,96 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
+      title: "Modern Interior Design",
+      category: "Interior",
+      imageUrl: "https://i.ibb.co/q3SMHGCz/IMG-0207.jpg"
+    },
+    {
+      id: 2,
+      title: "Contemporary Interior",
+      category: "Interior",
+      imageUrl: "https://i.ibb.co/FLpp9J91/IMG-0198.jpg"
+    },
+    {
+      id: 3,
       title: "Elegant Interior Design",
       category: "Interior",
       imageUrl: "https://i.ibb.co/Rrh0Rwn/IMG-9998.jpg"
     },
     {
-      id: 2,
+      id: 4,
       title: "Deck Staining",
       category: "Exterior",
       imageUrl: "https://i.ibb.co/PZRtZNLj/IMG-4655-2.jpg"
     },
     {
-      id: 3,
+      id: 5,
       title: "Limewash Finish",
       category: "Special",
       imageUrl: "https://i.ibb.co/XrTwhfLX/DJI-20241108-121600-233.jpg"
     },
     {
-      id: 4,
+      id: 6,
       title: "Modern Interior Finish",
       category: "Interior",
       imageUrl: "https://i.ibb.co/1J2RT1TL/IMG-8768.jpg"
     },
     {
-      id: 5,
+      id: 7,
       title: "Exterior Refresher",
       category: "Exterior",
       imageUrl: "https://i.ibb.co/ynztL3t1/IMG-7383.jpg"
     },
     {
-      id: 6,
+      id: 8,
       title: "Special Finish Project",
       category: "Special",
       imageUrl: "https://i.ibb.co/gFWLyBYk/IMG-8911-2.jpg"
     },
     {
-      id: 7,
+      id: 9,
       title: "Modern Exterior Finish",
       category: "Exterior",
       imageUrl: "https://i.ibb.co/Y4h9tsMk/IMG-7166.jpg"
     },
     {
-      id: 8,
+      id: 10,
       title: "House Exterior Detail",
       category: "Exterior",
       imageUrl: "https://i.ibb.co/4RLvqHCr/IMG-7174.jpg"
     },
     {
-      id: 9,
+      id: 11,
       title: "Contemporary Exterior",
       category: "Exterior",
       imageUrl: "https://i.ibb.co/8n3XrMbr/IMG-7184.jpg"
     },
     {
-      id: 10,
+      id: 12,
       title: "Exterior Transformation",
       category: "Exterior",
       imageUrl: "https://i.ibb.co/mCd9mjSv/IMG-7249.jpg"
     },
     {
-      id: 11,
+      id: 13,
       title: "Contemporary Interior",
       category: "Interior",
       imageUrl: "https://i.ibb.co/CsVs0XFM/IMG-8975.jpg"
     },
     {
-      id: 12,
+      id: 14,
       title: "Interior Detail Work",
       category: "Interior",
       imageUrl: "https://i.ibb.co/XkKQKBNC/IMG-9621.jpg"
     },
     {
-      id: 13,
+      id: 15,
       title: "Coloured Bedrooms",
       category: "Interior",
       imageUrl: "https://i.ibb.co/C5w4qq8G/IMG-8931.jpg"
     },
     {
-      id: 14,
+      id: 16,
       title: "Cabinet Refinishing",
       category: "Special",
       imageUrl: "https://i.ibb.co/bjgYy251/IMG-0071.jpg"
